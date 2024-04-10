@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Şanslı Mekan</string>
+<string name="facebook_app_id">516125217138962</string>
+<string name="fb_login_protocol_scheme">fb516125217138962</string>
+<string name="facebook_client_token">3737ad9920939a2ab614c542148adae0</string>
+</resources>
